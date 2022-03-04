@@ -1,4 +1,10 @@
-# Exercicio001
+# Exercicio001 - Primeiros componentes com Angular - SoulCode Java FullStack
+
+![exemplo em foto do formulário](src/assets/img/exem001.png)
+
+<hr>
+
+## Informações Angular 👇
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 

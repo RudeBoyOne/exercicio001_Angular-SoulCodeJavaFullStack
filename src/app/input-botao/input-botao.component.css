@@ -1,0 +1,15 @@
+.caixa-butao{
+    display: flex;
+    justify-content: center;
+}
+
+#butao{
+    height: 2.7em;
+    width: 50%;
+    border-radius: 10px;
+    border: none;
+
+    background-color: #c8c8c8;
+
+    font-weight: 500;
+}
